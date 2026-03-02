@@ -1,0 +1,324 @@
+[
+	{
+		"id": "react-Portfolio",
+		"title": "John Doe",
+		"type": "react",
+		"slug": "Portfolio",
+		"category": "React/Next",
+		"description": "Creative Developer & Digital Artist"
+	},
+
+	{
+		"id": "react-PortfolioLayout",
+		"title": "Portfolio",
+		"type": "react",
+		"slug": "PortfolioLayout",
+		"category": "React/Next",
+		"description": "The web development landscape is evolving at an unprecedented pace, with new technologies and methodologies emerging constantly. As we move forward, several key"
+	},
+	{
+		"id": "react-ProductivityTracker",
+		"title": "ProductivityTracker",
+		"type": "react",
+		"slug": "ProductivityTracker",
+		"category": "React/Next",
+		"description": "API Integration for the mobile app"
+	},
+	{
+		"id": "react-Profile",
+		"title": "Profile",
+		"type": "react",
+		"slug": "Profile",
+		"category": "React/Next",
+		"description": "No comments yet. Be the first to comment!"
+	},
+	{
+		"id": "react-ProfileEditor",
+		"title": "User Profile",
+		"type": "react",
+		"slug": "ProfileEditor",
+		"category": "React/Next",
+		"description": "This profile customization experience is optimized for mobile devices. Please switch to mobile view for the best experience."
+	},
+	{
+		"id": "react-ProjectManager",
+		"title": "Project Manager",
+		"type": "react",
+		"slug": "ProjectManager",
+		"category": "React/Next",
+		"description": "A premium React application built with modular components, dynamic state handling, and a sleek, modern user interface."
+	},
+	{
+		"id": "react-ProjectMapping",
+		"title": "DependencyGraph",
+		"type": "react",
+		"slug": "ProjectMapping",
+		"category": "React/Next",
+		"description": "Create interactive dependency graphs to understand your project architecture, track component relationships, and identify critical services."
+	},
+	{
+		"id": "react-PulseTrack",
+		"title": "PulseTrack",
+		"type": "react",
+		"slug": "PulseTrack",
+		"category": "React/Next",
+		"description": "Consistency is key for quality rest"
+	},
+	{
+		"id": "react-Quoura",
+		"title": "Quoura",
+		"type": "react",
+		"slug": "Quoura",
+		"category": "React/Next",
+		"description": "What do you want to ask or share?"
+	},
+	{
+		"id": "react-SimonGame",
+		"title": "Simon Game",
+		"type": "react",
+		"slug": "SimonGame",
+		"category": "React/Next",
+		"description": "Test your memory with this classic game reimagined"
+	},
+	{
+		"id": "react-Snippet",
+		"title": "Snippet Manager",
+		"type": "react",
+		"slug": "Snippet",
+		"category": "React/Next",
+		"description": "Unlock unlimited snippets, advanced features, and cloud backup"
+	},
+	{
+		"id": "react-SocialMediaSentiment",
+		"title": "Social Media Sentiment",
+		"type": "react",
+		"slug": "SocialMediaSentiment",
+		"category": "React/Next",
+		"description": "No trending topics in selected range."
+	},
+	{
+		"id": "react-SolarSystemSimulator",
+		"title": "Solar System Simulator",
+		"type": "react",
+		"slug": "SolarSystemSimulator",
+		"category": "React/Next",
+		"description": "INTERACTIVE SOLAR SYSTEM SIMULATOR"
+	},
+	{
+		"id": "react-Spa",
+		"title": "Spa",
+		"type": "react",
+		"slug": "Spa",
+		"category": "React/Next",
+		"description": "Rejuvenate your body and mind with our premium spa services",
+    "featured": true
+	},
+	{
+		"id": "react-Spotify",
+		"title": "Spotify Clone",
+		"type": "react",
+		"slug": "Spotify",
+		"category": "React/Next",
+		"description": "Try searching for something else"
+	},
+	{
+		"id": "react-StockExplorationApp",
+		"title": "StockChart Mobile",
+		"type": "react",
+		"slug": "StockExplorationApp",
+		"category": "React/Next",
+		"description": "Professional trading platform providing real-time market data and advanced charting tools."
+	},
+
+	{
+		"id": "react-StockMarketApp",
+		"title": "Stock Market Mobile",
+		"type": "react",
+		"slug": "StockMarketApp",
+		"category": "React/Next",
+		"description": "Real-time market data and analysis"
+	},
+	{
+		"id": "react-Storefrontpage",
+		"title": "Winter Flash Sale",
+		"type": "react",
+		"slug": "Storefrontpage",
+		"category": "React/Next",
+		"description": "Get ready for exclusive deals and updates!",
+		"featured": true
+	},
+	{
+		"id": "react-StoryBoard",
+		"title": "Comic Storyboard Studio",
+		"type": "react",
+		"slug": "StoryBoard",
+		"category": "React/Next",
+		"description": "Select a panel to edit properties"
+	},
+
+	{
+		"id": "react-StyleGuideBuilder",
+		"title": "Style Guide Builder",
+		"type": "react",
+		"slug": "StyleGuideBuilder",
+		"category": "React/Next",
+		"description": "Create beautiful, consistent UI components for your projects"
+	},
+	{
+		"id": "react-SurveyDashboard",
+		"title": "Survey Analytics",
+		"type": "react",
+		"slug": "SurveyDashboard",
+		"category": "React/Next",
+		"description": "Segment your insights by audience demographics",
+		"featured": true
+	},
+	{
+		"id": "react-Suspense",
+		"title": "SuspensionLab Pro",
+		"type": "react",
+		"slug": "Suspense",
+		"category": "React/Next",
+		"description": "Advanced Vehicle Dynamics Simulator",
+		"featured": true
+	},
+	{
+		"id": "react-TaskApp",
+		"title": "Task App Mobile",
+		"type": "react",
+		"slug": "TaskApp",
+		"category": "React/Next",
+		"description": "A task manager app for mobile"
+	},
+
+	{
+		"id": "react-TaskFlowScreening",
+		"title": "Task Manager",
+		"type": "react",
+		"slug": "TaskFlowScreening",
+		"category": "React/Next",
+		"description": "Task management application"
+	},
+	{
+		"id": "react-TechnicalWritingDashboard",
+		"title": "Technical Writing Dashboard",
+		"type": "react",
+		"slug": "TechnicalWritingDashboard",
+		"category": "React/Next",
+		"description": "Your document API Authentication has been approved and published."
+	},
+	{
+		"id": "react-TimeBlocker",
+		"title": "Time Blocker",
+		"type": "react",
+		"slug": "TimeBlocker",
+		"category": "React/Next",
+		"description": "Time management in calendar."
+	},
+	{
+		"id": "react-TimelineScheduler",
+		"title": "Timeline Manager",
+		"type": "react",
+		"slug": "TimelineScheduler",
+		"category": "React/Next",
+		"description": "Project Timeline Management"
+	},
+
+	{
+		"id": "react-TravelBlog",
+		"title": "Travel Blog",
+		"type": "react",
+		"slug": "TravelBlog",
+		"category": "React/Next",
+		"description": "Travel blog of a person"
+	},
+	{
+		"id": "react-TravelSite",
+		"title": "TravelDiscover",
+		"type": "react",
+		"slug": "TravelSite",
+		"category": "React/Next",
+		"description": "Loading amazing destinations..."
+	},
+	{
+		"id": "react-TrendNews",
+		"title": "Trend News",
+		"type": "react",
+		"slug": "TrendNews",
+		"category": "React/Next",
+		"description": "Full article content isn't available here. View the original source for the complete story."
+	},
+	{
+		"id": "react-Typing",
+		"title": "Typing Speed Challenge",
+		"type": "react",
+		"slug": "Typing",
+		"category": "React/Next",
+		"description": "Typing challenge."
+	},
+	{
+		"id": "react-TypingGame",
+		"title": "Word Sprint",
+		"type": "react",
+		"slug": "TypingGame",
+		"category": "React/Next",
+		"description": "Word typing game"
+	},
+	{
+		"id": "react-VehicleSuspensionSImulator",
+		"title": "Vehicle Suspension Simulator",
+		"type": "react",
+		"slug": "VehicleSuspensionSImulator",
+		"category": "React/Next",
+		"description": "Explore how different suspension setups affect vehicle stability and comfort over various road conditions."
+	},
+	{
+		"id": "react-VideoPlayer",
+		"title": "Video Player",
+		"type": "react",
+		"slug": "VideoPlayer",
+		"category": "React/Next",
+		"description": "Your premier destination for amazing video content from creators around the world."
+	},
+	{
+		"id": "react-VocavularyApp",
+		"title": "Vocavulary App",
+		"type": "react",
+		"slug": "VocavularyApp",
+		"category": "React/Next",
+		"description": "Improve your language skills with our engaging vocabulary matching games. Learn at your own pace or challenge yourself with timed exercises."
+	},
+	{
+		"id": "react-WaterUsageSimulation",
+		"title": "Water Usage Simulation",
+		"type": "react",
+		"slug": "WaterUsageSimulation",
+		"category": "React/Next",
+		"description": "Our interactive simulator helps you visualize your household water usage and discover personalized ways to conserve this precious resource."
+	},
+	{
+		"id": "react-WaveInterfaceSim",
+		"title": "Wave Interface Sim",
+		"type": "react",
+		"slug": "WaveInterfaceSim",
+		"category": "React/Next",
+		"description": "• Adjust sliders to modify wave properties"
+	},
+	{
+		"id": "react-WebsiteTraffic",
+		"title": "Website Analytics Dashboard",
+		"type": "react",
+		"slug": "WebsiteTraffic",
+		"category": "React/Next",
+		"description": "Website analysis application"
+	},
+	{
+		"id": "react-WordCrossGame",
+		"title": "WordCraft Pro",
+		"type": "react",
+		"slug": "WordCrossGame",
+		"category": "React/Next",
+		"description": "An immersive, high-performance interactive game experience with optimized animations and responsive gameplay mechanics.",
+		"featured": true
+	}
+]
