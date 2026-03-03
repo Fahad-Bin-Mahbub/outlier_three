@@ -13,10 +13,10 @@ export const componentMap: Record<string, any> = {
   // ProjectManager: dynamic(() => import("@/components/projects/ProjectManager"), { loading: LoadingSpinner, ssr: false }),
   // ProjectMapping: dynamic(() => import("@/components/projects/ProjectMapping"), { loading: LoadingSpinner, ssr: false }),
 
-  // PulseTrack: dynamic(() => import("@/components/projects/PulseTrack"), { loading: LoadingSpinner, ssr: false }),
-  // Quoura: dynamic(() => import("@/components/projects/Quoura"), { loading: LoadingSpinner, ssr: false }),
+  PulseTrack: dynamic(() => import("@/components/projects/PulseTrack"), { loading: LoadingSpinner, ssr: false }),
+  Quoura: dynamic(() => import("@/components/projects/Quoura"), { loading: LoadingSpinner, ssr: false }),
 
-  SimonGame: dynamic(() => import("@/components/projects/SimonGame"), { loading: LoadingSpinner, ssr: false }),
+  // SimonGame: dynamic(() => import("@/components/projects/SimonGame"), { loading: LoadingSpinner, ssr: false }),
   Snippet: dynamic(() => import("@/components/projects/Snippet"), { loading: LoadingSpinner, ssr: false }),
 
 
