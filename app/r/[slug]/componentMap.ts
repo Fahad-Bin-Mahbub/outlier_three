@@ -47,9 +47,9 @@ export const componentMap: Record<string, any> = {
 
   TravelSite: dynamic(() => import("@/components/projects/TravelSite"), { loading: LoadingSpinner, ssr: false }),
 
-  TrendNews: dynamic(() => import("@/components/projects/TrendNews"), { loading: LoadingSpinner, ssr: false }),
-  // Typing: dynamic(() => import("@/components/projects/Typing"), { loading: LoadingSpinner, ssr: false }),
-  // TypingGame: dynamic(() => import("@/components/projects/TypingGame"), { loading: LoadingSpinner, ssr: false }),
+  // TrendNews: dynamic(() => import("@/components/projects/TrendNews"), { loading: LoadingSpinner, ssr: false }),
+  Typing: dynamic(() => import("@/components/projects/Typing"), { loading: LoadingSpinner, ssr: false }),
+  TypingGame: dynamic(() => import("@/components/projects/TypingGame"), { loading: LoadingSpinner, ssr: false }),
   // VehicleSuspensionSImulator: dynamic(() => import("@/components/projects/VehicleSuspensionSImulator"), { loading: LoadingSpinner, ssr: false }),
   // VideoPlayer: dynamic(() => import("@/components/projects/VideoPlayer"), { loading: LoadingSpinner, ssr: false }),
   // VocavularyApp: dynamic(() => import("@/components/projects/VocavularyApp"), { loading: LoadingSpinner, ssr: false }),
