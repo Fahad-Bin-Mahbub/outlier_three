@@ -43,9 +43,9 @@ export const componentMap: Record<string, any> = {
   TimeBlocker: dynamic(() => import("@/components/projects/TimeBlocker"), { loading: LoadingSpinner, ssr: false }),
   TimelineScheduler: dynamic(() => import("@/components/projects/TimelineScheduler"), { loading: LoadingSpinner, ssr: false }),
 
-  // TravelBlog: dynamic(() => import("@/components/projects/TravelBlog"), { loading: LoadingSpinner, ssr: false }),
+  TravelBlog: dynamic(() => import("@/components/projects/TravelBlog"), { loading: LoadingSpinner, ssr: false }),
 
-  // TravelSite: dynamic(() => import("@/components/projects/TravelSite"), { loading: LoadingSpinner, ssr: false }),
+  TravelSite: dynamic(() => import("@/components/projects/TravelSite"), { loading: LoadingSpinner, ssr: false }),
 
   // TrendNews: dynamic(() => import("@/components/projects/TrendNews"), { loading: LoadingSpinner, ssr: false }),
   // Typing: dynamic(() => import("@/components/projects/Typing"), { loading: LoadingSpinner, ssr: false }),
