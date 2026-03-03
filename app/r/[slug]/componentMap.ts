@@ -16,8 +16,8 @@ export const componentMap: Record<string, any> = {
   // PulseTrack: dynamic(() => import("@/components/projects/PulseTrack"), { loading: LoadingSpinner, ssr: false }),
   // Quoura: dynamic(() => import("@/components/projects/Quoura"), { loading: LoadingSpinner, ssr: false }),
 
-  // SimonGame: dynamic(() => import("@/components/projects/SimonGame"), { loading: LoadingSpinner, ssr: false }),
-  // Snippet: dynamic(() => import("@/components/projects/Snippet"), { loading: LoadingSpinner, ssr: false }),
+  SimonGame: dynamic(() => import("@/components/projects/SimonGame"), { loading: LoadingSpinner, ssr: false }),
+  Snippet: dynamic(() => import("@/components/projects/Snippet"), { loading: LoadingSpinner, ssr: false }),
 
 
   SocialMediaSentiment: dynamic(() => import("@/components/projects/SocialMediaSentiment"), { loading: LoadingSpinner, ssr: false }),
