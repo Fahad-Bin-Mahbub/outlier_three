@@ -31,11 +31,11 @@ export const componentMap: Record<string, any> = {
   Storefrontpage: dynamic(() => import("@/components/projects/Storefrontpage"), { loading: LoadingSpinner, ssr: false }),
   StoryBoard: dynamic(() => import("@/components/projects/StoryBoard"), { loading: LoadingSpinner, ssr: false }),
 
-  // StyleGuideBuilder: dynamic(() => import("@/components/projects/StyleGuideBuilder"), { loading: LoadingSpinner, ssr: false }),
+  StyleGuideBuilder: dynamic(() => import("@/components/projects/StyleGuideBuilder"), { loading: LoadingSpinner, ssr: false }),
 
-  // SurveyDashboard: dynamic(() => import("@/components/projects/SurveyDashboard"), { loading: LoadingSpinner, ssr: false }),
-  // Suspense: dynamic(() => import("@/components/projects/Suspense"), { loading: LoadingSpinner, ssr: false }),
-  // TaskApp: dynamic(() => import("@/components/projects/TaskApp"), { loading: LoadingSpinner, ssr: false }),
+  SurveyDashboard: dynamic(() => import("@/components/projects/SurveyDashboard"), { loading: LoadingSpinner, ssr: false }),
+  Suspense: dynamic(() => import("@/components/projects/Suspense"), { loading: LoadingSpinner, ssr: false }),
+  TaskApp: dynamic(() => import("@/components/projects/TaskApp"), { loading: LoadingSpinner, ssr: false }),
 
   // TaskFlowScreening: dynamic(() => import("@/components/projects/TaskFlowScreening"), { loading: LoadingSpinner, ssr: false }),
 
