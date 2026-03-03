@@ -25,11 +25,11 @@ export const componentMap: Record<string, any> = {
   Spa: dynamic(() => import("@/components/projects/Spa"), { loading: LoadingSpinner, ssr: false }),
   Spotify: dynamic(() => import("@/components/projects/Spotify"), { loading: LoadingSpinner, ssr: false }),
 
-  // StockExplorationApp: dynamic(() => import("@/components/projects/StockExplorationApp"), { loading: LoadingSpinner, ssr: false }),
+  StockExplorationApp: dynamic(() => import("@/components/projects/StockExplorationApp"), { loading: LoadingSpinner, ssr: false }),
 
-  // StockMarketApp: dynamic(() => import("@/components/projects/StockMarketApp"), { loading: LoadingSpinner, ssr: false }),
-  // Storefrontpage: dynamic(() => import("@/components/projects/Storefrontpage"), { loading: LoadingSpinner, ssr: false }),
-  // StoryBoard: dynamic(() => import("@/components/projects/StoryBoard"), { loading: LoadingSpinner, ssr: false }),
+  StockMarketApp: dynamic(() => import("@/components/projects/StockMarketApp"), { loading: LoadingSpinner, ssr: false }),
+  Storefrontpage: dynamic(() => import("@/components/projects/Storefrontpage"), { loading: LoadingSpinner, ssr: false }),
+  StoryBoard: dynamic(() => import("@/components/projects/StoryBoard"), { loading: LoadingSpinner, ssr: false }),
 
   // StyleGuideBuilder: dynamic(() => import("@/components/projects/StyleGuideBuilder"), { loading: LoadingSpinner, ssr: false }),
 
