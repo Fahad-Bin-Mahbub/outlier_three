@@ -428,7 +428,7 @@ const EnhancedTravelBlog: React.FC = () => {
 		setMobileMenuOpen(false);
 	};
 
-	const SinglePostView = (): JSX.Element | null => {
+	const SinglePostView = (): React.ReactNode | null => {
 		if (!activePost) return null;
 
 		return (

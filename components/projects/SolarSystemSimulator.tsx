@@ -2051,7 +2051,7 @@ const SolarSystemSimulator: React.FC = () => {
 					if (p.mesh.geometry) p.mesh.geometry.dispose();
 					if (p.mesh.material) {
 						if (Array.isArray(p.mesh.material)) {
-							p.mesh.material.forEach((material) => material.dispose());
+							p.mesh.material.forEach((material:any) => material.dispose());
 						} else {
 							p.mesh.material.dispose();
 						}

@@ -1076,8 +1076,6 @@ const StoryboardApp: React.FC = () => {
 			x: e.clientX - rect.left,
 			y: e.clientY - rect.top,
 		});
-
-		e.currentTarget.style.transition = "none";
 	};
 
 	const handleTouchStart = (e: React.TouchEvent, panelId: string) => {

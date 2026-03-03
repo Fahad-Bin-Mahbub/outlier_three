@@ -207,7 +207,7 @@ const CustomTooltip: React.FC<CustomTooltipProps> = ({
 	return null;
 };
 
-export default function WebsiteTrafficExport(): JSX.Element {
+export default function WebsiteTrafficExport(): React.ReactNode {
 	const [selectedPeriod, setSelectedPeriod] = useState<TimeRange>("Today");
 	const [activeMetric, setActiveMetric] = useState<MetricKey>("visitors");
 	const [darkMode, setDarkMode] = useState<boolean>(false);

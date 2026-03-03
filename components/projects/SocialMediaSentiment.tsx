@@ -2718,9 +2718,7 @@ const CommentAnalysisPanel: React.FC<CommentAnalysisPanelProps> = ({
 							zIndex: 9999,
 							transition: "transform 0.3s ease, opacity 0.3s ease",
 							opacity: isFilterModalOpen ? 1 : 0,
-							transform: isFilterModalOpen
-								? "translate(-50%, -50%) scale(1)"
-								: "translate(-50%, -50%) scale(0.95)",
+							transform: isFilterModalOpen? "translate(-50%, -50%) scale(1)": "translate(-50%, -50%) scale(0.95)",
 						}}
 						role="dialog"
 						aria-labelledby="filter-modal-title"

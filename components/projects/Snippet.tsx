@@ -2110,9 +2110,7 @@ app.listen(PORT, () => {
 														{sortOption === option.value && (
 															<Check size={16} className="mr-2" />
 														)}
-														{!sortOption === option.value && (
-															<div className="w-4 mr-2"></div>
-														)}
+														
 														{option.label}
 													</button>
 												))}
