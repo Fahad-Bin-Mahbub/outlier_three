@@ -20,8 +20,8 @@ export const componentMap: Record<string, any> = {
   // Snippet: dynamic(() => import("@/components/projects/Snippet"), { loading: LoadingSpinner, ssr: false }),
 
 
-  // SocialMediaSentiment: dynamic(() => import("@/components/projects/SocialMediaSentiment"), { loading: LoadingSpinner, ssr: false }),
-  // SolarSystemSimulator: dynamic(() => import("@/components/projects/SolarSystemSimulator"), { loading: LoadingSpinner, ssr: false }),
+  SocialMediaSentiment: dynamic(() => import("@/components/projects/SocialMediaSentiment"), { loading: LoadingSpinner, ssr: false }),
+  SolarSystemSimulator: dynamic(() => import("@/components/projects/SolarSystemSimulator"), { loading: LoadingSpinner, ssr: false }),
   Spa: dynamic(() => import("@/components/projects/Spa"), { loading: LoadingSpinner, ssr: false }),
   Spotify: dynamic(() => import("@/components/projects/Spotify"), { loading: LoadingSpinner, ssr: false }),
 
