@@ -37,11 +37,11 @@ export const componentMap: Record<string, any> = {
   Suspense: dynamic(() => import("@/components/projects/Suspense"), { loading: LoadingSpinner, ssr: false }),
   TaskApp: dynamic(() => import("@/components/projects/TaskApp"), { loading: LoadingSpinner, ssr: false }),
 
-  // TaskFlowScreening: dynamic(() => import("@/components/projects/TaskFlowScreening"), { loading: LoadingSpinner, ssr: false }),
+  TaskFlowScreening: dynamic(() => import("@/components/projects/TaskFlowScreening"), { loading: LoadingSpinner, ssr: false }),
 
-  // TechnicalWritingDashboard: dynamic(() => import("@/components/projects/TechnicalWritingDashboard"), { loading: LoadingSpinner, ssr: false }),
-  // TimeBlocker: dynamic(() => import("@/components/projects/TimeBlocker"), { loading: LoadingSpinner, ssr: false }),
-  // TimelineScheduler: dynamic(() => import("@/components/projects/TimelineScheduler"), { loading: LoadingSpinner, ssr: false }),
+  TechnicalWritingDashboard: dynamic(() => import("@/components/projects/TechnicalWritingDashboard"), { loading: LoadingSpinner, ssr: false }),
+  TimeBlocker: dynamic(() => import("@/components/projects/TimeBlocker"), { loading: LoadingSpinner, ssr: false }),
+  TimelineScheduler: dynamic(() => import("@/components/projects/TimelineScheduler"), { loading: LoadingSpinner, ssr: false }),
 
   // TravelBlog: dynamic(() => import("@/components/projects/TravelBlog"), { loading: LoadingSpinner, ssr: false }),
 
