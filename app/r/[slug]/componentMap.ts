@@ -52,9 +52,9 @@ export const componentMap: Record<string, any> = {
   TypingGame: dynamic(() => import("@/components/projects/TypingGame"), { loading: LoadingSpinner, ssr: false }),
   VehicleSuspensionSImulator: dynamic(() => import("@/components/projects/VehicleSuspensionSImulator"), { loading: LoadingSpinner, ssr: false }),
   VideoPlayer: dynamic(() => import("@/components/projects/VideoPlayer"), { loading: LoadingSpinner, ssr: false }),
-  // VocavularyApp: dynamic(() => import("@/components/projects/VocavularyApp"), { loading: LoadingSpinner, ssr: false }),
-  // WaterUsageSimulation: dynamic(() => import("@/components/projects/WaterUsageSimulation"), { loading: LoadingSpinner, ssr: false }),
-  // WaveInterfaceSim: dynamic(() => import("@/components/projects/WaveInterfaceSim"), { loading: LoadingSpinner, ssr: false }),
+  VocavularyApp: dynamic(() => import("@/components/projects/VocavularyApp"), { loading: LoadingSpinner, ssr: false }),
+  WaterUsageSimulation: dynamic(() => import("@/components/projects/WaterUsageSimulation"), { loading: LoadingSpinner, ssr: false }),
+  WaveInterfaceSim: dynamic(() => import("@/components/projects/WaveInterfaceSim"), { loading: LoadingSpinner, ssr: false }),
 
   WebsiteTraffic: dynamic(() => import("@/components/projects/WebsiteTraffic"), { loading: LoadingSpinner, ssr: false }),
 
